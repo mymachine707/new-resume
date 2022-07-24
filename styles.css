@@ -1,5 +1,5 @@
 table {
-    background-color: red;
+    background-color: green;
     color: white;
     border: 10px solid black;
     margin-left:auto;
@@ -8,9 +8,12 @@ table {
 }
 
 th {
-    border: 5px solid green;
+    border: 5px solid red;
 }
 
 td {
-    border: 5px solid green;
+    border: 5px solid red;
+}
+a {
+    color: yellow;
 }
